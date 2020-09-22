@@ -1,0 +1,20 @@
+księgowy
+architekt
+asystent
+kosmetyczka
+budowniczy
+kierowca autobusu
+pomocnik kelnera
+mechanik
+doradca kariery
+stolarz
+szef kuchni
+farmaceuta
+sprzątaczka
+programista
+kucharz
+dentysta
+doktor
+krawiec
+instruktor nauki jazdy
+śmieciarz

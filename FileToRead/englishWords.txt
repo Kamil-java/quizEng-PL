@@ -1,0 +1,20 @@
+accountant
+architect
+assistant
+beautician
+builder
+bus driver
+busboy
+car mechanic
+career advisor
+carpenter
+chef
+chemist
+cleaner
+programmer
+cook
+dentist
+doctor
+dressmaker
+driving instructor
+rubbish collector
